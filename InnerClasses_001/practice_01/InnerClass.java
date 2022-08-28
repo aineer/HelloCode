@@ -13,8 +13,6 @@ public class InnerClass {
 
 class Main {
     public static void main(String[] args) {
-        InnerClass HH = new InnerClass();
-
         InnerClass.Inner_class a = new InnerClass.Inner_class();
         a.print();
 
