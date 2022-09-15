@@ -1,5 +1,9 @@
 package java_set.Storageroom_01;
 
+/**
+ * @author likongqing
+ * 第一个Java程序
+ */
 public class my_java{
     public static void main(String[] ages){
         //int o, p,sum(求和变量)

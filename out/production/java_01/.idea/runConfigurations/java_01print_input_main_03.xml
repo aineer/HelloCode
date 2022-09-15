@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="java_01中的print_input.main_03" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="java_01" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="print_input.main_03.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="print_input.main_03" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
